@@ -9,6 +9,7 @@
 - Implementation for `orientTriangles()`
 - Compute Vertex Normal Vectors for Smooth Shading
 - Visualise boundary edges
+
 ![teapot](https://github.com/AnuKritiW/3D-Modeling/blob/main/images/teapot.gif)
 
 ## Highlights
@@ -24,6 +25,7 @@
 - Mesh Relaxation
     - Performed Laplacian smoothing 
     - Each vertex is moved to the average of all the neighbouring vertices
+    
 ![pumpkin](https://github.com/AnuKritiW/3D-Modeling/blob/main/images/pumpkin_meshrelaxation.gif)
 
 ![relaxation_summary](https://github.com/AnuKritiW/3D-Modeling/blob/main/images/relaxation_summary.png)
